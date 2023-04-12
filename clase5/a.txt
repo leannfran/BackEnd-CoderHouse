@@ -1,0 +1,3 @@
+nodemon sirve para Reiniciar automaticamente el servidor
+y poder concentrarnos en el codigo ya que este si no se reinicia no muestra los cambios
+-npm install nodemon
