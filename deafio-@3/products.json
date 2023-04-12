@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 13",
+    "description": "Un teléfono móvil de última generación",
+    "price": 1299.99,
+    "thumbnail": "https://example.com/iphone13.jpg",
+    "code": "IPH13",
+    "stock": 10
+  }
+]
